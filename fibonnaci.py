@@ -1,5 +1,5 @@
 def fibonnaci(n):
-    #la suite de fibonnaci
+    #la suite de fibonnaciccino
     a, b, c = 1, 1, 0
     while (c < n):
         print(f'{c+1:2} _ {a:8} : {b:9}')
